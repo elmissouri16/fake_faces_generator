@@ -4,8 +4,8 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
-<!-- - [Contributing](../CONTRIBUTING.md) -->
+  <!-- - [Usage](#usage) -->
+  <!-- - [Contributing](../CONTRIBUTING.md) -->
 
 ## About <a name = "about"></a>
 
@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 then
 
 ```bash
-python3 fakefaces.py
+python3 generator.py
 ```
 
 then input the number of faces you want to generate
